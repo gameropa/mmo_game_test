@@ -1,1 +1,3 @@
-# mmo_game_test
+# MMO Projekt
+
+Ein einfaches MMO Backend mit Client in C++.
